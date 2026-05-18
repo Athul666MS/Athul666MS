@@ -74,7 +74,7 @@ A modern service exchange platform connecting users with verified professionals.
 - 💳 Integrated third-party payment system with comprehensive transaction handling
 - 🔒 Comprehensive provider verification and skill management
 
-**[View Project](#)** | **[Source Code](#)**
+
 
 ---
 
@@ -90,7 +90,7 @@ A scalable multi-vendor marketplace with real-time features and role-based dashb
 - 🔒 Integrated **Razorpay payment gateway** and **Google OAuth** authentication
 - 🌐 Deployed on **AWS** (EC2, S3, RDS) with Nginx for high availability
 
-**[View Project](#)** | **[Live Link](#)** | **[Source Code](#)**
+
 
 ---
 
@@ -106,7 +106,7 @@ A distributed microservices-based freelancing platform with real-time communicat
 - 🐳 **Docker containerization** and Nginx reverse proxy routing
 - 📦 Modular RESTful APIs for job posting, applications, payments & reviews
 
-**[Source Code](#)**
+
 
 ---
 
