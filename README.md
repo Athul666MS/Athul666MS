@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Athul Sivanand
 
-**Python Full Stack Developer** | Building scalable web applications with Django, React & AWS
+**Python Full Stack Developer** with knowledge in building back-end systems, REST APIs, and responsive
+web applications. Skilled in Python, Django, Django REST Framework, MySQL, HTML, CSS,
+JavaScript, Docker, and AWS. Familiar with authentication systems, micro-services architecture, and
+WebSocket integration. Able to develop clean and scalable applications with a focus on performance,
+problem-solving, and continuous learning.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Athul666MS-181717?style=for-the-badge&logo=github)](https://github.com/Athul666MS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
