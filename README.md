@@ -7,7 +7,7 @@ WebSocket integration. Able to develop clean and scalable applications with a fo
 problem-solving, and continuous learning.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Athul666MS-181717?style=for-the-badge&logo=github)](https://github.com/Athul666MS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/athul-sivanand-73875635a)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:athulsivanand14@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%208921387929-25D366?style=for-the-badge)](tel:+918921387929)
 
@@ -163,7 +163,7 @@ I'm always interested in collaborating on exciting projects, learning new techno
 - **Email:** [athulsivanand14@gmail.com](mailto:athulsivanand14@gmail.com)
 - **Phone:** [+91 8921387929](tel:+918921387929)
 - **GitHub:** [@Athul666MS](https://github.com/Athul666MS)
-- **LinkedIn:** [Connect with me](https://linkedin.com)
+- **LinkedIn:** [Connect with me](www.linkedin.com/in/athul-sivanand-73875635a)
 
 ---
 
