@@ -163,7 +163,7 @@ I'm always interested in collaborating on exciting projects, learning new techno
 - **Email:** [athulsivanand14@gmail.com](mailto:athulsivanand14@gmail.com)
 - **Phone:** [+91 8921387929](tel:+918921387929)
 - **GitHub:** [@Athul666MS](https://github.com/Athul666MS)
-- **LinkedIn:** [Connect with me](www.linkedin.com/in/athul-sivanand-73875635a)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/athul-sivanand-73875635a)
 
 ---
 
